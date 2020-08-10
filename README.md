@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[website]: https://anshit01.github.io
+[twitter]: https://twitter.com/anshit_bhardwaj
+[instagram]: https://instagram.com/anshit.bhardwaj
+[linkedin]: https://linkedin.com/in/anshit01
