@@ -6,6 +6,7 @@
 
 [![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=anshit01&repo=anshit01.github.io)](https://anshit01.github.io)
 
+![](https://komarev.com/ghpvc/?username=anshit01)
 
 ### Connect with me:
 
