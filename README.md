@@ -2,9 +2,13 @@
 
 ---
 
+<!--
 [![Anshit's github stats](https://github-readme-stats.vercel.app/api?username=anshit01&hide=issues&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anshit01)
+-->
 
+<!--
 [![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=anshit01&repo=anshit01.github.io)](https://anshit01.github.io)
+-->
 
 ![](https://komarev.com/ghpvc/?username=anshit01)
 
