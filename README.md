@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anshit</h1>
 <h3 align="center">A passionate competitive programmer and full stack developer from India</h3>
 
 <p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&theme=onedark" alt="anshit01" /></a> </p>
