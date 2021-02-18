@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshit</h1>
 <h3 align="center">A passionate competitive programmer and full stack developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshit01" alt="anshit01" /></a> </p>
+<p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&theme=onedark" alt="anshit01" /></a> </p>
 
 - 🔭 I’m currently working on [VaxxDoc](https://github.com/shwetalsoni/VaxxDoc)
 
