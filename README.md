@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Competitive Programming and React**
 
-- 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/) -->
+- Check out my projects in [pinned repositories](https://github.com/anshit01#choose-pinned-repositories) below.
 
 - 💬 Ask me about **Python, C++ and Web Development**
 
