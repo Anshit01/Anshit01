@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Blockchain Technology, Competitive Programming and React**
 
 <!-- - 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/) -->
-- 👨‍💻 Check out my projects in the [pinned repositories](https://github.com/anshit01#choose-pinned-repositories) below.
+- 👨‍💻 Check out my projects in the [pinned repositories](https://github.com/anshit01#:~:text=Clippy) below.
 
 - 💬 Ask me about **Web Development and Competitive Programming**
 
