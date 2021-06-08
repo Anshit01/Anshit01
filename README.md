@@ -13,7 +13,7 @@
 - 💬 Ask me about **Web Development and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
-<p>Find me by the username **anshit01** on Github, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
+<p>Find me by the username <b>anshit01</b> on Github, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
