@@ -13,13 +13,7 @@
 - 💬 Ask me about **Web Development and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" bgcolor="red">
-<a href="https://linkedin.com/in/anshit01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anshit01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshit01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshit01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anshit01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anshit01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anshit01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="anshit01" height="30" width="40" /></a>
-<a href="https://twitter.com/anshit_bhardwaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anshit_bhardwaj" height="30" width="40" /></a>
-</p>
+<p>Find me by the username **anshit01** on Github, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
