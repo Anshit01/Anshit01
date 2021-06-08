@@ -68,4 +68,4 @@
   </p>
 </p>
 
-![bottom design](assets/bottom.svg)
+![bottom design](assets/bottom.webp)
