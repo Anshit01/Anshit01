@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anshit</h1>
-<h3 align="center">A passionate competitive programmer and full stack developer from India</h3>
+<h3 align="center">A passionate competitive programmer, full-stack web and blockchain developer from India</h3>
 
-<p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&theme=onedark" alt="anshit01" /></a> </p>
+<p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="anshit01" /></a> </p>
 
-- 🔭 I’m currently working on [VaxxDoc](https://github.com/shwetalsoni/VaxxDoc)
+- 🔭 I’m currently working on [Anonicle](https://github.com/shwetalsoni/Anonicle)
 
-- 🌱 I’m currently learning **Competitive Programming and React**
+- 🌱 I’m currently learning **Blockchain Technology, Competitive Programming and React**
 
 <!-- - 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/) -->
-- Check out my projects in [pinned repositories](https://github.com/anshit01#choose-pinned-repositories) below.
+- 👨‍💻 Check out my projects in the [pinned repositories](https://github.com/anshit01#choose-pinned-repositories) below.
 
-- 💬 Ask me about **Python, C++ and Web Development**
+- 💬 Ask me about **Web Development and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" bgcolor="red">
