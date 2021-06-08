@@ -51,5 +51,21 @@
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshit01&" alt="anshit01" /></p>
 -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anshit01&label=Profile%20views&color=0e75b6&style=flat" alt="anshit01" /> </p>
+<br>
+<br>
+<p align="center">
+  <i>Let's connect and chat!</i>
 
+  <p align="center">
+    <a href="https://twitter.com/anshit_bhardwaj" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/anshit01/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:bhardwaj.anshit1379@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://anshit.me" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anshit01&label=Profile%20views&color=0e75b6&style=flat" alt="anshit01" />
+  </p>
+</p>
+
+![bottom design](assets/bottom.svg)
