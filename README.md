@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anshit</h1>
 <h3 align="center">A passionate competitive programmer, full-stack web and blockchain developer from India</h3>
 
-<p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="anshit01" /></a> </p>
+
 
 - 🔭 I’m currently working on [Anonicle](https://github.com/shwetalsoni/Anonicle)
 
@@ -40,6 +40,7 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshit01&show_icons=true&locale=en&layout=compact" alt="anshit01" /></p>
 -->
+<!-- <p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&rank=SECRET,SSS,SS,S,AAA,AA&theme=onedark" alt="anshit01" /></a> </p> -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshit01&include_all_commits=true&show_icons=true&count_private=true&locale=en&theme=algolia" alt="anshit01" /></p>
 
 <!--
@@ -62,4 +63,4 @@
   </p>
 </p>
 
-![bottom design](assets/bottom.webp)
+<!-- ![bottom design](assets/bottom.webp) -->
