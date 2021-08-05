@@ -3,14 +3,14 @@
 
 
 
-- 🔭 I’m currently working on [Anonicle](https://github.com/shwetalsoni/Anonicle)
+- 🔭 I’m currently building [Tezotopia](https://tezotop.io/)
 
-- 🌱 I’m currently learning **Blockchain Technology, Competitive Programming and React**
+- 🌱 I’m currently learning **Blockchain Technology - Smart Contracts, DeFi, NFTs**
 
 <!-- - 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/) -->
 - 👨‍💻 Check out my projects in the [pinned repositories](https://github.com/anshit01#:~:text=Clippy) below.
 
-- 💬 Ask me about **Web Development and Competitive Programming**
+- 💬 Ask me about **Blockchain Technology, Web Development and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p>Find me by the username <b>anshit01</b> on Github, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
