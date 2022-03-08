@@ -2,18 +2,19 @@
 <h3 align="center">A passionate competitive programmer, full-stack web and blockchain developer from India</h3>
 
 
+- 🧑‍💻 I work at [Gif.games](https://gif.games/)
 
-- 🔭 I’m currently building [Tezotopia](https://tezotop.io/)
+- 🔭 I’m currently building [Tezotopia](https://tezotop.io/) on [Tezos](https://tezos.com/) blockchain
 
 - 🌱 I’m currently learning **Blockchain Technology - Smart Contracts, DeFi, NFTs**
 
 <!-- - 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/) -->
-- 👨‍💻 Check out my projects in the [pinned repositories](https://github.com/anshit01#:~:text=Clippy) below.
+- 👨‍💻 Check out my projects in the pinned repositories below ⬇️
 
 - 💬 Ask me about **Blockchain Technology, Web Development and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
-<p>Find me by the username <b>anshit01</b> on Github, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
+<p>Find me by the username <b>anshit01</b> on Github, Twitter, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
