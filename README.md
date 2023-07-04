@@ -1,21 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anshit</h1>
-<h3 align="center">A passionate competitive programmer, full-stack web and blockchain developer from India</h3>
+<h3 align="center">A passionate full-stack web and blockchain developer from India</h3>
 
 
-- 🧑‍💻 I work at [Gif.games](https://gif.games/)
+- 🧑‍💻 I work at [100xp](https://100xp.io/)
 
-- 🔭 I’m currently building [Tezotopia](https://tezotop.io/) on [Tezos](https://tezos.com/) blockchain
+- 🔭 I’m currently building [Tezotopia](https://tezotop.io/) and [Pigs at War](https://pigsatwar.xyz/) on [Tezos](https://tezos.com/) blockchain
 
-- 🌱 I’m currently learning **Blockchain Technology - Smart Contracts, DeFi, NFTs**
+- 🌱 I’m keep learning about **emerging technologies like Web3 and AI**
 
 <!-- - 👨‍💻 All of my projects are available at [http://anshit01.github.io/](http://anshit01.github.io/) -->
 - 👨‍💻 Check out my projects in the pinned repositories below ⬇️
 
-- 💬 Ask me about **Blockchain Technology, Web Development and Competitive Programming**
+- 💬 Ask me about **Project Management, Blockchain Technology, Web Development, and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p>Find me by the username <b>anshit01</b> on Github, Twitter, Linkedin, Telegram, Codeforces, Codechef, Atcoder, Medium and many more platforms.</p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a> 
@@ -37,13 +38,15 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="linux" /> </a> 
 </p>
+-->
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshit01&show_icons=true&locale=en&layout=compact" alt="anshit01" /></p>
 -->
 <!-- <p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&rank=SECRET,SSS,SS,S,AAA,AA&theme=onedark" alt="anshit01" /></a> </p> -->
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshit01&include_all_commits=true&show_icons=true&count_private=true&locale=en&theme=algolia" alt="anshit01" /></p>
-
+-->
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshit01&" alt="anshit01" /></p>
 -->
