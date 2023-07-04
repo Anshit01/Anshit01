@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anshit</h1>
+<h1 align="center">Hi <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px">, I'm Anshit</h1>
 <h3 align="center">A passionate full-stack web and blockchain developer from India</h3>
 
 
