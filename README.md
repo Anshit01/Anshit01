@@ -56,7 +56,7 @@
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://twitter.com/anshit_bhardwaj" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://twitter.com/anshit01" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/anshit01/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:bhardwaj.anshit1379@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <!--<a href="https://anshit.me" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
